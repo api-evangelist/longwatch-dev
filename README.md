@@ -64,5 +64,110 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-longwatch-dev is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://longwatch.dev/
+Longwatch provides a monitoring API for intermittent AI agents, offering managed change detection for public web pages, RSS feeds, crypto price thresholds, and SEC filings. Users can retrieve unseen alerts via cursor through MCP or REST, with a paid watch including seven days of polling. The service operates without requiring an API key or account, enabling seamless integration for AI-driven monitoring tasks.
+
+**Areas:** Company · Monitoring · AI · Web · Finance
+
+## longwatch-dev on APIs.io
+
+Everything profiled for longwatch-dev is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/longwatch-dev/](https://apis.io/providers/longwatch-dev/)** — or go straight to one of the APIs or properties below.
+
+### APIs (3)
+
+- [Longwatch Monitoring API](https://apis.io/apis/longwatch-dev/longwatch-monitoring-api/) — Monitoring API for intermittent AI agents, offering managed change detection for public web pages, RSS feeds, crypto price thresholds, and SEC filings.
+- [longwatch-dev MCP API](https://apis.io/apis/longwatch-dev/longwatch-dev-mcp-api/) — The mcp API from longwatch-dev — 1 operation(s) for mcp.
+- [longwatch-dev website monitoring API](https://apis.io/apis/longwatch-dev/longwatch-dev-website-monitoring-api/) — The website monitoring API from longwatch-dev — 20 operation(s) for website monitoring.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Longwatch Dev Agentic Access](https://apis.io/agentic-access/longwatch-dev/longwatch-dev-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [longwatch-dev API Rules](https://apis.io/rules/longwatch-dev/longwatch-dev-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Longwatch Dev Domain Security](https://apis.io/security/longwatch-dev/longwatch-dev-domain-security/)
+- [Longwatch Dev Vulnerability Disclosure](https://apis.io/security/longwatch-dev/longwatch-dev-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Longwatch Dev Plans Pricing](https://apis.io/plans/longwatch-dev/longwatch-dev-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://longwatch.dev/)
+- [Documentation](https://longwatch.dev/docs)
+- [Pricing](https://longwatch.dev/pricing.md)
+- [Security](https://longwatch.dev/)
+- [Privacy policy](https://longwatch.dev/privacy)
+
+## API Evangelist rating
+
+**Kin Score 44.5** — developing · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 46.3 |
+| Contract governance | 79.1 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 25.5 |
+| Access clarity | 49.5 |
+
+**Agent readiness 46.7** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | verified |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | mostly (partial credit) |
+
+**Regulatory alignment 19.1** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/longwatch-dev/](https://apis.io/providers/longwatch-dev/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for longwatch-dev: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/longwatch-dev/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
